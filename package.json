@@ -1,13 +1,15 @@
 {
-    "name": "nodejs",
-    "version": "1.0.0",
-    "description": "",
-    "keywords": [],
-    "homepage": "https://codesandbox.io/s/4qqok3zqlw",
-    "main": "index.js",
-    "dependencies": {
-      "express": "4.18.2",
-      "node": "9.5.0",
-      "vue-router": "3.0.1"
-    }
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
   }
+}
